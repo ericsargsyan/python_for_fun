@@ -41,7 +41,6 @@ def cows_and_bulls():
         print("Invalid action!")
 
 
-# if __name__ == '__main__'
-#     CowsAndBulls()
-
+if __name__ == '__main__'
+    CowsAndBulls()
 
